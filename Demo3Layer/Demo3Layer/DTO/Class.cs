@@ -6,7 +6,7 @@ namespace Demo3Layer.DTO
     {
         public int? Id { get; set; }
         public string? ClassName { get; set; }
-      
+      //fđgf
         public Class(int? id, string className)
         {
             Id = id;
