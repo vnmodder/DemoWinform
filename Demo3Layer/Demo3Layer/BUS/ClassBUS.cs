@@ -14,7 +14,7 @@ namespace Demo3Layer.BUS
         }
 
         /// <summary>
-        /// Gets all class.
+        /// Gets all class. vdsfd sfsd fs
         /// </summary>
         /// <returns></returns>
         public List<Class> GetAllClass()
